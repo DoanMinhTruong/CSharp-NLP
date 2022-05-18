@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfeCnt/jRUXR2jpA3IwdOz1H1rsh7RMn22FQTLlJX+IXY2yA8itNUfcgzurezJwyOIradHJCXBmT6QzzdA3Hqw==",
+  "success": true,
+  "projectFilePath": "D:\\cs-repo\\vn-text-summarization\\vn-text-summarization\\vn-text-summarization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EZ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
